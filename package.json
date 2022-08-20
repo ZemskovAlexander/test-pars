@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/ZemskovAlexander/test.git",
+  "homepage": "https://github.com/ZemskovAlexander/test-pars",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /test.git/"
+    "build": "parcel build src/*.html --public-url /test-pars.git/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZemskovAlexander/test.git"
+    "url": "git+https://github.com/ZemskovAlexander/test-pars.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
